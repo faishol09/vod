@@ -21,3 +21,6 @@ https://surrit.com/30abbbba-405a-45e2-942e-3ac5c61f6ceb/720p/video.m3u8
 #EXTINF:-1 tvg-id="grup2" tvg-name="HNDS-182 " tvg-logo="https://i.imgur.com/dnc5t8y.jpeg" group-title="semi jepang", HNDS-182
 https://surrit.com/074ef331-83d4-408c-9d0d-0b1eb69626a8/720p/video.m3u8
 
+#EXTINF:-1 tvg-id="grup3" tvg-name="OFJE-505 " tvg-logo="https://i.imgur.com/TRmNm0l.jpeg" group-title="semi jepang", OFJE-505
+https://surrit.com/bcd5b63a-0c80-43bb-ad3b-ebed168e256c/720p/video.m3u8
+
